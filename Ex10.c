@@ -26,6 +26,8 @@ int main() {
         }
     }
 
+    // Độ phức tạp thời gian của cách này là O(n)
+
     printf("Hai chuoi la hoan vi cua nhau");
     return 0;
 }
